@@ -1,0 +1,4 @@
+{
+    "summary": "For, %ROBOT%, generate the required RobotVPN certificates and keys for Walmart VPN"
+    "description": "The purpose of this Jira ticket is to authorize the InfoSec Team to create certificates and keys so that a %ROBOT% can connect to the Walmart RobotVPN. When complete, the certificates and keys should be placed in the following directory in Github, and the task moved to Ready for QA. Here is a link to the keys in Github https://github.com/BossaNova/ansible-dock-robot/tree/devel/robot-only-roles/device_vpn/files/pki/Walmart/robot_vpn_robot_client_pki 'Ready for QA' state indicates that the keys are ready for deployment to the robot via the Commissioning process, to be executed by the SST team. Once the robot has been successfully commissioned, this task should be moved to Complete"
+}

@@ -1,0 +1,4 @@
+{
+    "summary": "For,%ROBOT%", generate the required PKI for request Azure SAS Tokens from the SAS Token service"
+    "description": "The purpose of this Jira ticket is to authorize the InfoSec Team to create certificates and keys so that a %ROBOT% can request Azure Service Bus SAS Tokens for data upload. When complete, the certificates and keys should be placed in the following directory in Github, and the task moved to 'Ready for QA'. Here is a link to the keys in Github:  https://github.com/BossaNova/ansible-dock-robot/tree/devel/roles/commission_robot/files/token_pki ,  'Ready for QA' state indicates that the keys are ready for deployment to %ROBOT% via the Commissioning process, to be executed by the SST team. Once the %ROBOT% has been successfully commissioned, this task should be moved to Complete."
+}

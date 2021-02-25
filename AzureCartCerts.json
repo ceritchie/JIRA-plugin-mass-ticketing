@@ -1,0 +1,18 @@
+
+{
+    "description": "This ticket is authorize the InfoSec Team to create certificates and keys so that %ROBOT% can interact with Liminal Azure Services. Once the certificates and keys are generated, please ensure the device is registered with the Azure IoT Hub. When complete, the keys should be placed in the following directory in Github, and the task moved to 'Ready for QA'.   Here is a link to the entity certificates in Github:  https://github.com/BossaNova/bnr-customer-configuration/tree/devel/platforms/pki/customers/liminal/components/azure_device_robot/certs  ,'Ready for QA' state indicates that the keys are ready for deployment to %ROBOT% via the Commissioning process, to be executed by the SST team. Once %ROBOT% has been successfully commissioned, this task should be moved to Complete",
+    "summary": "For %ROBOT%, generate Liminal Azure Device Certificate"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

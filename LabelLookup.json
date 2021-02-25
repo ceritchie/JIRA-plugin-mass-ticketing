@@ -1,0 +1,4 @@
+{
+    "summary": "For  %ROBOT% generate an Azure Service Bus Subscription for label lookup",
+    "description": "The purpose of this Jira ticket is to authorize the InfoSec Team to create %ROBOT% subscription to Azure for label lookup. Once the subscription has been successfully completed, this task should be moved to Complete."
+}

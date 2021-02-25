@@ -1,0 +1,4 @@
+{
+    "summary": "For %ROBOT%, generate the required Azure IoT Hub certificates and keys and then register %ROBOT% to Azure IoT Hub."
+    "description": " The purpose of this Jira ticket is to authorize the InfoSec Team to create certificates and keys so that %ROBOT% can interact with Azure IoT Hub. Once the certificates and keys are generated, please ensure the device is registered with the Azure IoT Hub. When complete, the keys should be placed in the following directory in Github, and the task moved to 'Ready for QA'.   Here is a link to the keys in Github:  https://github.com/BossaNova/ansible-dock-robot/blob/devel/robot-only-roles/commission_robot/files/pki/walmart/azure_device_robot_pki/modules  ,'Ready for QA' state indicates that the keys are ready for deployment to %ROBOT% via the Commissioning process, to be executed by the SST team. Once %ROBOT% has been successfully commissioned, this task should be moved to Complete"
+}

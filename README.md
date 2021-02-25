@@ -14,12 +14,12 @@ cmhod +x ./create_issue.py
 
 example  :  
 
- ./create_issue.py -u cameron.ritchie@bossanova.com -p YOURJIRATOKEN  -t SomeTicketType.json -s BEGINROBOT# -e ENDROBOT#  -P JiraTicketType -r atlasoscar -d
+ ./create_issue.py -u name.lastname@companydomain.com -p YOURJIRATOKEN  -t SomeTicketType.json -s BEGINROBOT# -e ENDROBOT#  -P JiraTicketType -r atlasoscar -d
 
 
 real use case example 
 
-./create_issue.py -u cameron.ritchie@bossanova.com -p as234f44ff59uTTid914reEe87565  -t IoT.json -s 100 -e 200  -P JiraTicketType -r atlasoscar -d
+./create_issue.py -u name.lastname@companydomain.com-p as23asdf98234aslkdjf65  -t IoT.json -s 100 -e 200  -P JiraTicketType -r atlasoscar -d
 
 
 #### remove the  “-d” in the syntax above  when you are ready to pull the trigger.  it is for a dry run
